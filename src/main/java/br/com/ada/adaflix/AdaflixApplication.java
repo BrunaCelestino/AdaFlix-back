@@ -17,7 +17,7 @@ public class AdaflixApplication {
 	@RequestMapping("/v1/hello-world")
 	@ResponseBody
 	String home(){
-		return "Hello Hello Hello Brunaaaaa!";
+		return "Welcome to Adaflix!";
 	}
 
 }
